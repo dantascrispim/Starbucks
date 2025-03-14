@@ -15,10 +15,10 @@ projeto de uma lande-page de um produto espécificos , mas com varias ideias par
 
 ## Principais Funcionalidades:
 
-✅ Seleção de moedas de origem e destino (ex: USD → BRL).
-✅ Atualização em tempo real das taxas de câmbio.
-✅ Conversão instantânea ao inserir um valor.
-✅ Suporte a múltiplas moedas
+✅ Land-page
+✅ Mudanças nas cores com clicks
+
+
 
 ## 🛠️ Tecnologias Usadas
   - HTML: Para estruturar tudo.
