@@ -34,12 +34,13 @@
 //   });
 //});
 
-let circulo = document.querySelector(".circulo");
-let imagem = document.querySelector(".copo");
-
 function trocarACor(cor) {
+  const circulo = document.querySelector(".circulo");
+
   circulo.style.background = cor;
 }
+
 function trocarImagem(endereco) {
+  const imagem = document.querySelector(".copo");
   imagem.src = endereco;
 }
